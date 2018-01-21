@@ -1,19 +1,20 @@
 {
-  "name": "babel-preset-react-native",
+  "name": "babel-preset-react-native-es6",
   "version": "4.0.0",
   "description": "Babel preset for React Native applications",
   "main": "index.js",
-  "repository": "https://github.com/facebook/react-native/tree/master/babel-preset",
+  "repository": "https://github.com/hedgepigdaniel/babel-preset-react-native-es6",
   "keywords": [
     "babel",
     "preset",
-    "react-native"
+    "react-native",
+    "es6"
   ],
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/facebook/react-native/issues"
+    "url": "https://github.com/hedgepigdaniel/babel-preset-react-native-es6/issues"
   },
-  "homepage": "https://github.com/facebook/react-native/tree/master/babel-preset/README.md",
+  "homepage": "https://github.com/hedgepigdaniel/babel-preset-react-native-es6/README.md",
   "dependencies": {
     "babel-plugin-check-es2015-constants": "^6.5.0",
     "babel-plugin-react-transform": "^3.0.0",
